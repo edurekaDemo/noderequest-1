@@ -1,5 +1,14 @@
-books = [
-{title: 'Harry Potter', id: 1},
-{title: 'Twilight', id: 2},
-{title: 'Lorien Legacies', id: 3}
+[
+{
+  "id" : 1,
+  "title" : "Harry Potter"
+},
+{
+   "id": 2,
+  "title" : "Twilight"
+},
+  {
+   "id": 3,
+   "title" : "Lorien Legacies"
+}
 ]
